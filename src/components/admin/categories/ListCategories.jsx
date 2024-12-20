@@ -1,11 +1,11 @@
 import React from 'react'
 
-const ListCategories = () => {
+const Listcategories = () => {
   return (
     <div>
-      <h1>liste categories</h1>
+      liste des catégories
     </div>
   )
 }
 
-export default ListCategories
+export default Listcategories

@@ -1,11 +1,11 @@
 import React from 'react'
 
-const InsertCategorie = () => {
+const Insertcategorie = () => {
   return (
     <div>
-      <h1>insert categories</h1>
+      insérer une catégtorie
     </div>
   )
 }
 
-export default InsertCategorie
+export default Insertcategorie

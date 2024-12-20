@@ -62,7 +62,7 @@ const ListArticles = () => {
               <td>{art.marque}</td>
               <td>{art.qtestock}</td>
               <td>{art.prix}</td>
-              <td>{art.categorie}</td>
+              <td>{art.scategorieID.nom}</td>
               <td>
                 <img src={art.imageart} alt="Article" width={80} height={80} />
               </td>

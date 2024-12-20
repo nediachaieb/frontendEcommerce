@@ -1,11 +1,11 @@
 import React from 'react'
 
-const EditScategorie = () => {
+const Editscategorie = () => {
   return (
     <div>
-      <h1>edit scategories</h1>
+      Modifier une sous catégorie
     </div>
   )
 }
 
-export default EditScategorie
+export default Editscategorie
